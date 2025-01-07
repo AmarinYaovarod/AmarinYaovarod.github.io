@@ -28,7 +28,7 @@
 
 | **ชื่อโปรเจกต์**       | **รายละเอียด**                                                                                  | **ลิงก์**                 |
 |-------------------------|--------------------------------------------------------------------------------------------------|--------------------------|
-| [ Cake Sales System]        | พัฒนาเว็บไซต์สำหรับเบเกอรี่ออนไลน์ ใช้ HTML, CSS, PHP และ JavaScript เพื่อสร้างระบบสั่งซื้อ  | [Figma]((https://www.figma.com/design/JzXvFBPVu83f1pFaeFzBQe/Cupcake?node-id=21-687&t=WDXcypM8R8UR64B4-1))             |
+| [ Cake Sales System]        | พัฒนาเว็บไซต์สำหรับเบเกอรี่ออนไลน์ ใช้ HTML, CSS, PHP และ JavaScript เพื่อสร้างระบบสั่งซื้อ  | [Figma](https://www.figma.com/design/JzXvFBPVu83f1pFaeFzBQe/Cupcake?node-id=21-687&t=WDXcypM8R8UR64B4-1) , [Draw.io](https://drive.google.com/file/d/1hvJY045382OwhqIT3_CZ4AkjKC4q2cHQ/view?usp=drivesdk)            |
 | [โปรเจกต์ 2](#)         | สร้าง Dashboard สำหรับการวิเคราะห์ข้อมูลแบบเรียลไทม์ โดยเชื่อมต่อ API และจัดการข้อมูลใน MongoDB | [Demo](#)               |
 
 ---
