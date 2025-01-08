@@ -33,7 +33,7 @@
 | [story telling อัตราการจ้างงานปี 2020-2024]        | โปรเจคกลุ่มที่สร้าง story telling สำหรับการวิเคราะห์ข้อมูลอัตราการจ้างงานปี2020-2024โดยใช้ Tableau  | [story telling](https://public.tableau.com/app/profile/punnakan.punsiri/viz/project_17290244924750/Story1)|
 | [Tree Data Structures]        | พัฒนาโปรแกรมด้วยภาษา C ที่ช่วยให้ผู้ใช้งานสามารถสร้างต้นไม้หลายประเภทได้ เช่น Binary Tree, Ternary Tree และ N-ary Tree  | [Tree Data Structures](https://www.onlinegdb.com/6bfahBgCa)|
 | [GUESS THE WORD GAME]        | สร้างเกมทายคำด้วยภาษา Java โดยใช้ NetBeans IDE ออกแบบอินเทอร์เฟซที่สามารถโต้ตอบกับผู้ใช้ได้ และพัฒนาโลจิกของเกม  | [JAVACODE](https://drive.google.com/file/d/1ubz8F6FybJgAIg-Ht0-5kDIFkIykfgIb/view?usp=sharing), [VIDEO](https://drive.google.com/file/d/1-ioLRt038IRPhBKSYtjORuFQsnrPbP4L/view?usp=sharing)|
-| [MyTrailhead]        | เรียนรู้บทเรียนต่างๆและทำแบทดสอบของบทเรียนนั้นๆ เพื่อเก้บเหรียญตรา และไต่ระดับเปรียบเสมือนการปีนเขา  | [JAVACODE](https://www.salesforce.com/trailblazer/a04ivjmnod39mcys5o)|
+| [Trailhead]        | เรียนรู้บทเรียนต่างๆและทำแบทดสอบของบทเรียนนั้นๆ เพื่อเก้บเหรียญตรา และไต่ระดับเปรียบเสมือนการปีนเขา  | [Profile](https://www.salesforce.com/trailblazer/a04ivjmnod39mcys5o)|
 
 ---
 
@@ -43,7 +43,6 @@
 - [TestDome certificate: Java](https://drive.google.com/file/d/1XmKisvVu0LzY09B9tQAiayYgYjKVFCxQ/view?usp=sharing)
 - [เกียรติบัตรเรียนดี](https://drive.google.com/file/d/1mC8bzzRQzGLkJMDTX3t632InHRbDv3ik/view?usp=sharing)
 - [ทักษะการออกแบบเว็บแอพพลิเคชัน](https://drive.google.com/file/d/1dWbrGbAAk_auiRzjvBtAx1pDbIBRuKfM/view?usp=sharing)
-- [MyTrailhead](https://www.salesforce.com/trailblazer/a04ivjmnod39mcys5o)
 
 ---
 
